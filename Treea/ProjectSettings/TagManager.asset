@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3217240867
+    locked: 0
+  - name: Background
+    uniqueID: 1244619373
+    locked: 0
+  - name: Stars
+    uniqueID: 3126403423
+    locked: 0
+  - name: home
+    uniqueID: 2684796913
+    locked: 0
+  - name: Flag
+    uniqueID: 3524159265
+    locked: 0
+  - name: Icon
+    uniqueID: 8967555
+    locked: 0
