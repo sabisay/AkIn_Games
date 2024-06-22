@@ -1,0 +1,4 @@
+repository "AKIN_Mobile@sabisay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
